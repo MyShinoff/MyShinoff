@@ -15,15 +15,15 @@
 
 ## 🛠️ Outils
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS Sequoia](https://img.shields.io/badge/-macOS%20Sequoia-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
-![MLLStudio](https://img.shields.io/badge/-MLStudio-FF6B35?style=for-the-badge&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white)
+![MLLStudio](https://img.shields.io/badge/-MLLStudio-FF6B35?style=for-the-badge&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![iA Writer](https://img.shields.io/badge/-iA%20Writer-1E90FF?style=for-the-badge&logoColor=white)
 ![Commander One](https://img.shields.io/badge/-Commander%20One-2E8B57?style=for-the-badge&logoColor=white)
-![Terminus](https://img.shields.io/badge/-Terminus-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Terminus](https://img.shields.io/badge/-Terminus-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Thonny](https://img.shields.io/badge/-Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Espressif IDE](https://img.shields.io/badge/-Espressif%20IDE-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
