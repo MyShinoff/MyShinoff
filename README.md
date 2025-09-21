@@ -18,6 +18,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS Sequoia](https://img.shields.io/badge/-macOS%20Sequoia-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white)
+![Debian 12](https://img.shields.io/badge/-Debian%2012-A81D33?style=for-the-
 ![MLStudio](https://img.shields.io/badge/-MLLStudio-FF6B35?style=for-the-badge&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
