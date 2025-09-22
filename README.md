@@ -58,7 +58,7 @@ Building the future, one line of code at a time.
 
 ### 🖥️ Homelab Server
 ![CPU](https://img.shields.io/badge/CPU-Xeon%20E5--2690%20v2-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Motherboard](https://img.shields.io/badge/Motherboard-Micron-FF0000?style=for-the-badge&logoColor=white)
+![Motherboard](https://img.shields.io/badge/Motherboard-Supermicro-X9Dri-LN4F-+-FF0000?style=for-the-badge&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-64GB%20DDR3%20ECC-FF6B35?style=for-the-badge&logoColor=white)
 ![Storage](https://img.shields.io/badge/Storage-2x%20WD%20RED%201TB%20RAID-8B0000?style=for-the-badge&logoColor=white)
 
