@@ -60,7 +60,7 @@ Building the future, one line of code at a time.
 
 [![Laptop](https://img.shields.io/badge/Asus_R751L-lightgrey?style=for-the-badge)](#)
 [![CPU](https://img.shields.io/badge/Intel_i7_4500U-blue?style=for-the-badge&logo=intel)](#)
-[![RAM](https://img.shields.io/badge/8GB_DDR3-yellow?style=for-the-badge)](#)
+[![RAM](https://img.shields.io/badge/8GB_DDR3-ff80ff?style=for-the-badge)](#)
 [![Storage](https://img.shields.io/badge/1TB_SSD_Sandisk_Plus-green?style=for-the-badge)](#)
 [![Screen](https://img.shields.io/badge/HD%2B_LED-ff69b4?style=for-the-badge)](#)
 
