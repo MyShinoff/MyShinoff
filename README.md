@@ -56,13 +56,14 @@ Building the future, one line of code at a time.
 ![Storage](https://img.shields.io/badge/Internal-256GB%20SSD-005BBB?style=for-the-badge&logoColor=white)
 ![Storage](https://img.shields.io/badge/External-2TB%20Samsung%20EVO%20990-1BA1E2?style=for-the-badge&logoColor=white)
 
-## 💻 Laptop
+### 💻 Laptop
 
-[![Laptop](https://img.shields.io/badge/Asus_R751L-lightgrey?style=for-the-badge)](#)
-[![CPU](https://img.shields.io/badge/Intel_i7_4500U-blue?style=for-the-badge&logo=intel)](#)
-[![RAM](https://img.shields.io/badge/8GB_DDR3-ff80ff?style=for-the-badge)](#)
-[![Storage](https://img.shields.io/badge/1TB_SSD_Sandisk_Plus-green?style=for-the-badge)](#)
-[![Screen](https://img.shields.io/badge/HD%2B_LED-ff69b4?style=for-the-badge)](#)
+![Laptop](https://img.shields.io/badge/Laptop-Asus%20R751L-lightgrey?style=for-the-badge&logo=asus&logoColor=white)
+![CPU](https://img.shields.io/badge/CPU-Intel%20i7--4500U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-8GB%20DDR3-FF80FF?style=for-the-badge&logoColor=white)
+![Storage](https://img.shields.io/badge/SSD-1TB%20Sandisk%20Plus-005BBB?style=for-the-badge&logoColor=white)
+![Screen](https://img.shields.io/badge/Screen-HD%2B%20LED-FF6B35?style=for-the-badge&logoColor=white)
+
 
 ### 🖥️ Homelab Server
 ![CPU](https://img.shields.io/badge/CPU-Xeon%20E5--2690%20v2-0071C5?style=for-the-badge&logo=intel&logoColor=white)
