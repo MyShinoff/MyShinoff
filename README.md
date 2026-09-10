@@ -27,7 +27,7 @@ Building the future, one line of code at a time.
 ## 🛠️ Outils
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![macOS Sequoia](https://img.shields.io/badge/-macOS%20Sequoia-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-48B9C7?style=for-the-badge&logo=linux&logoColor=white)
 ![Debian 12](https://img.shields.io/badge/-Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![MLStudio](https://img.shields.io/badge/-MLStudio-FF6B35?style=for-the-badge&logoColor=white)
@@ -50,13 +50,13 @@ Building the future, one line of code at a time.
 ![Storage](https://img.shields.io/badge/SSD-500GB%20Crucial%20MX500-005BBB?style=for-the-badge&logoColor=white)
 ![Storage](https://img.shields.io/badge/SSD-1TB%20Crucial%20BX500-005BBB?style=for-the-badge&logoColor=white)
 
-### 💼 Work Setup
+### 💻 Laptop Main
 ![Computer](https://img.shields.io/badge/Mac%20Mini-M4%20Chip-000000?style=for-the-badge&logo=apple&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-16GB%20Unified%20Memory-FF6B35?style=for-the-badge&logoColor=white)
-![Storage](https://img.shields.io/badge/Internal-256GB%20SSD-005BBB?style=for-the-badge&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-24GB%20Unified%20Memory-FF6B35?style=for-the-badge&logoColor=white)
+![Storage](https://img.shields.io/badge/Internal-512GB%20SSD-005BBB?style=for-the-badge&logoColor=white)
 ![Storage](https://img.shields.io/badge/External-2TB%20Samsung%20EVO%20990-1BA1E2?style=for-the-badge&logoColor=white)
 
-### 💻 Laptop
+### 💻 Laptop Secondary
 
 ![Laptop](https://img.shields.io/badge/Laptop-Asus%20R751L-lightgrey?style=for-the-badge&logo=asus&logoColor=white)
 ![CPU](https://img.shields.io/badge/CPU-Intel%20i7--4500U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
