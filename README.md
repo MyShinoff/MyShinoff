@@ -51,7 +51,7 @@ Building the future, one line of code at a time.
 ![Storage](https://img.shields.io/badge/SSD-1TB%20Crucial%20BX500-005BBB?style=for-the-badge&logoColor=white)
 
 ### 💻 Laptop Main
-![Computer](https://img.shields.io/badge/Mac%20Mini-M4%20Chip-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Computer](https://img.shields.io/badge/Mac%20book%20air-M4%20Chip-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-24GB%20Unified%20Memory-FF6B35?style=for-the-badge&logoColor=white)
 ![Storage](https://img.shields.io/badge/Internal-512GB%20SSD-005BBB?style=for-the-badge&logoColor=white)
 ![Storage](https://img.shields.io/badge/External-2TB%20Samsung%20EVO%20990-1BA1E2?style=for-the-badge&logoColor=white)
